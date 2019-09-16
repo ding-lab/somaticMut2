@@ -1,2 +1,2 @@
 # somaticMut2
-Beta version v0.2
+Beta version v1
